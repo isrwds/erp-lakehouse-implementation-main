@@ -1,0 +1,23 @@
+# Dados
+*.csv
+*.parquet
+*.json
+
+# Ambiente
+.env
+.venv
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+logs/
+
+# Outros
+.DS_Store
+__pycache__/
