@@ -11,10 +11,5 @@ Integrar dados de diversos módulos do ERP em uma plataforma unificada para enab
 - **Camada Serving:** Dados modelados para consumo (Gold tables)
 
 ## 👥 Equipe
-- [Seu Nome] - Data Architect/Engineer
-- [Outros membros] - Roles
+- Israel - Data Architect/Engineer
 
-## 📅 Próximos Passos
-1. Finalizar workshops de descoberta
-2. Implementar POC do primeiro caso de uso
-3. Definir modelo de governança
