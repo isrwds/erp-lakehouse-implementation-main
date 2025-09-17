@@ -18,3 +18,25 @@ Integrar dados de diversos módulos do ERP em uma plataforma unificada para enab
 1. Finalizar workshops de descoberta
 2. Implementar POC do primeiro caso de uso
 3. Definir modelo de governança
+
+## 📁 Estrutura do Projeto
+
+erp-lakehouse-implementation/
+├── docs/ # Documentação
+├── infrastructure/ # Infra as Code
+├── dags/ # Pipelines Airflow
+├── notebooks/ # Jupyter notebooks
+├── scripts/ # Scripts diversos
+├── tests/ # Testes automatizados
+└── .github/ # Configurações GitHub
+
+
+## 🔧 Tecnologias Principais
+- Apache Spark
+- Delta Lake
+- Apache Airflow
+- Terraform
+- AWS/Azure/GCP
+
+## 📊 Status do Projeto
+🚧 Em andamento - Fase de descoberta
