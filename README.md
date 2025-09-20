@@ -40,5 +40,3 @@ erp-lakehouse-implementation/
 
 ## 📊 Status do Projeto
 🚧 Em andamento - Fase de descoberta
-=======
->>>>>>> 3f2d6cb3fde6f2c40ccabd78c91886b8f9e4386a
